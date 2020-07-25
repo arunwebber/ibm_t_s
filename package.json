@@ -1,0 +1,14 @@
+{
+  "name": "texttosp",
+  "version": "1.0.0",
+  "description": "This is a text to speach for ibm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webberji",
+  "license": "ISC",
+  "dependencies": {
+    "ibm-watson": "^5.6.1"
+  }
+}
