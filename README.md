@@ -1,5 +1,7 @@
 # ibm_t_s
 
+This is a client side script to get the audio file as a text format using ibm speach to text api easy to install and use
+
 #Getting Node And npm installed 
 
 Windows
