@@ -9,6 +9,6 @@
   "author": "webberji",
   "license": "ISC",
   "dependencies": {
-    "ibm-watson": "^5.6.1"
+    "ibm-watson": "^8.0.0"
   }
 }
